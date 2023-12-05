@@ -10,6 +10,6 @@ javascript:(function(){
     alert(randomError);
     document.body.style.backgroundColor = "magenta";
     document.body.style.color = "yellow";
-    var audio = new Audio('https://www.myinstants.com/media/sounds/untitled_hG6mBU5.mp3');
+    var audio = new Audio(https://www.myinstants.com/en/instant/spongebob-fail-11236/);
     audio.play();
 })();
